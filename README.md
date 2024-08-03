@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I’m interested in Developer Experience, crafting dev tools, programming languages, IDEs and compilers.
+
+## My Projects 💼
+
+- [swift-klib-plugin](https://github.com/ttypic/swift-klib-plugin) - Maintaining plugin which simplifies using swift code in your Kotlin Multiplatform project
+- [Anvil Utils](https://github.com/IlyaGulya/anvil-utils) - code generator with several handy annotations for [Anvil](https://github.com/square/anvil) - code generator allowing to get rid of Dagger 2 boilerplate
+- [Rust Dalvik VM](https://github.com/IlyaGulya/rust-dalvik-vm) - educational project where I'm trying to write a Dalvik VM implementation in Rust from scratch.
+- [Todo App](https://github.com/IlyaGulya/TodoAppDecomposeMviKotlin) - Todo app sample using Compose Multiplatform, MVIKotlin, Decompose.
 <!--
 **IlyaGulya/IlyaGulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
